@@ -1,0 +1,16 @@
+coursework.RestaurantInfo$10
+coursework.RestaurantInfo$11
+coursework.RestaurantInfo$12
+coursework.RestaurantInfo$9
+coursework.RestaurantInfo$13
+coursework.RestaurantInfo$8
+coursework.RestaurantInfo$14
+coursework.RestaurantInfo$7
+coursework.RestaurantInfo$15
+coursework.RestaurantInfo
+coursework.RestaurantInfo$6
+coursework.RestaurantInfo$5
+coursework.RestaurantInfo$4
+coursework.RestaurantInfo$3
+coursework.RestaurantInfo$2
+coursework.RestaurantInfo$1
